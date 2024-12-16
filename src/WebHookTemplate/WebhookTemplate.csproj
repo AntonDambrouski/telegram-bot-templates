@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TgBot.Common\TgBot.Core.csproj" />
+    <ProjectReference Include="..\TgBot.Core\TgBot.Core.csproj" />
   </ItemGroup>
 
 </Project>
